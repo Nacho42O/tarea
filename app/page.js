@@ -17,7 +17,7 @@ export default function Home() {
           <li>
             Get started by editing <code>app/page.js</code>.
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Save and see your dick instantly.</li>
         </ol>
 
         <div className={styles.ctas}>
@@ -34,7 +34,7 @@ export default function Home() {
               width={20}
               height={20}
             />
-            Deploy now
+            Defuck now
           </a>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
@@ -42,7 +42,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className={styles.secondary}
           >
-            Read our docs
+            Read our dicks
           </a>
         </div>
       </main>
