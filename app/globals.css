@@ -1,3 +1,5 @@
+/* globals.css: Este archivo contiene estilos CSS globales, que se aplicarán a todas las páginas y componentes de tu aplicación. Aquí puedes definir estilos comunes (como colores o fuentes) para todo tu proyecto.
+*/
 :root {
   --background: #ffffff;
   --foreground: #171717;
